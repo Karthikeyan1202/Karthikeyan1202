@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zero%20Trust%20Explorer&fontSize=70&fontColor=ffffff" alt="Animated Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cybersecurity%20Explorer&fontSize=70&fontColor=ffffff" alt="Animated Banner">
 </h1>
 
 ---
@@ -17,17 +17,22 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,sql,docker,kubernetes,ansible,terraform" />
+  <img src="https://skillicons.dev/icons?i=python,sql,bash,powershell,go,rust" />
 </p>
 
-### 🌐 Protocols & Concepts
+### 🌐 Networking & Protocols
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,nginx,linux,windows,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,windows,cloudflare,nginx,git,jenkins,grafana" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Domains
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=burp,wireshark,metasploit,nessus,splunk,okta,jira,git" />
+  <img src="https://skillicons.dev/icons?i=burp,wireshark,metasploit,nessus,splunk,okta,jira,prometheus,aws,gcp" />
+</p>
+
+### 🛡️ Cybersecurity Expertise
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=security,pentest,forensics,threat,vulnerability,network,iam,soc,cloud,threatintel" />
 </p>
 
 ---
@@ -38,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Karthikeyan's GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=radical&hide_border=true" alt="Karthikeyan's Streak Stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyan1202&theme=radical&hide_border=true" alt="Karthikeyan's Streak Stats" height="180em"/>
 </p>
 
 ---
