@@ -1,5 +1,8 @@
 <!-- 🌐 Cybersecurity Profile Header -->
-![M.Tech Cybersecurity Student Banner](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/10161672-39fc-45a8-b20f-41900972f7ed.png)
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+h1 {
+  font-family: 'Raleway Dots', cursive;
+}
 
 
 
