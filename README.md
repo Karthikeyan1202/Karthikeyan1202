@@ -80,33 +80,37 @@
 
 ## 📊 GitHub Stats & Activity  
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&v=1" 
-    alt="GitHub Stats" 
-    height="200" 
-  />
+<table>
+  <tr>
+    <!-- GitHub Stats -->
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&v=1" 
+        alt="GitHub Stats" 
+        height="200" 
+      />
+    </td>
 
-  <!-- GitHub Streak (primary: demolab, fallback commented) -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=false&v=1" 
-    alt="GitHub Streak" 
-    height="200" 
-  />
-  <!-- If demolab is down, replace above with: 
-  https://github-readme-streak-stats-eight.vercel.app?user=Karthikeyan1202&theme=dark&v=1
-  -->
-</p>
+    <!-- GitHub Streak -->
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=false&v=1" 
+        alt="GitHub Streak" 
+        height="200" 
+      />
+    </td>
+  </tr>
+</table>
 
+<!-- Contribution Graph (full width below) -->
 <p align="center">
-  <!-- Contribution Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&bg_color=000000&color=39FF14&line=00FF41&point=9AFF9A&area=true&hide_border=true&v=1" 
     alt="Contribution Graph" 
     height="250" 
   />
 </p>
+
 
 ---
 
@@ -127,19 +131,4 @@
 
 ---
 
-### 🔧 Troubleshooting (if images still don’t show)
-1. **Cache**: GitHub caches images—if you changed a URL recently, add or bump `&v=2` to force refresh.  
-2. **Service downtime**: Some community APIs (streak / activity) are hosted by volunteers — if `demolab` is down, use the alternate:  
-   `https://github-readme-streak-stats-eight.vercel.app?user=Karthikeyan1202&theme=dark&v=1`  
-3. **Private contributions**: If your contribution graph / streak looks empty, ensure you have public contributions or enable *Include private contributions on my profile* in GitHub profile settings.  
-4. **Badges blocked**: Corporate/custom GitHub Pages or some CSPs may block third-party embeds — preview on your public GitHub profile to confirm.  
 
----
-
-If you want, I can:
-- Swap the streak service to the `github-readme-streak-stats-eight.vercel.app` by default, or
-- Generate and host static images for the sections (so nothing depends on third-party uptime), or
-- Add a GitHub Trophies card and a short projects section matching your neon theme.
-
-Which would you like next? 🚀
-::contentReference[oaicite:0]{index=0}
