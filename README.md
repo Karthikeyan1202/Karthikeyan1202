@@ -1,5 +1,6 @@
 <!-- 🌐 Cybersecurity Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,4B0082,00FFFF,FF00FF&height=220&section=header&text=M.Tech%20Cybersecurity%20Student&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=35" alt="Cyberpunk Animated Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,4B0082,00FFFF,FF00FF&height=220&section=header&text=Example&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=35" alt="Vibrant Banner">
+
 
 
 
