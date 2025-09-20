@@ -1,8 +1,16 @@
-<p align="center">
-  <!-- Typing animation with college name -->
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=23&duration=4000&pause=800&color=39FF14&center=true&vCenter=true&width=850&lines=M.Tech+Cybersecurity+Student+%40+Amrita+Vishwa+Vidyapeetham;Initializing+Defense+Protocols...;Deploying+Zero+Trust+Policies...;Monitoring+SQLi+%2C+XSS+%2C+Command+Injection...;⚠️+Access+Denied+%7C+Unauthorized+Requests+Blocked...;Cybersecurity+is+not+an+option+%7C+it's+a+mission+%F0%9F%9A%80" 
-       alt="Cyberpunk Typing Animation" />
-</p>
+## 🎓 Education  
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="100%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 20px;">
+      <h3 style="color:#39FF14;">M.Tech in Cybersecurity</h3>
+      <p style="color:#9AFF9A; font-size:18px;">
+        @ Amrita Vishwa Vidyapeetham
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
