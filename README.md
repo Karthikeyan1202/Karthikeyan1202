@@ -56,6 +56,8 @@
   <img src="https://img.shields.io/badge/Okta-4169E1?style=for-the-badge&logo=okta&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM%20Cloud-483D8B?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ### 🏴‍☠️ Security Domains  
