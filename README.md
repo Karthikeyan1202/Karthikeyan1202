@@ -110,8 +110,8 @@
       <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&bg_color=000000&color=39FF14&line=00FF41&point=9AFF9A&area=true&hide_border=false&v=1" 
         alt="Contribution Graph" 
-        width="100%" 
-        height="250" 
+        width="200%" 
+        height="200" 
       />
     </td>
   </tr>
