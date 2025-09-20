@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <img 
-        src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=25&duration=4000&pause=800&color=39FF14&center=true&vCenter=true&width=850&lines=M.Tech+in+Cybersecurity+%40+Amrita+Vishwa+Vidyapeetham" 
+        src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=25&duration=4000&pause=800&color=39FF14&center=true&vCenter=true&width=850&lines=M.Tech+in+CyberSecurity+%40+Amrita+Vishwa+Vidyapeetham" 
         alt="M.Tech Cybersecurity @ Amrita"
       />
     </td>
