@@ -85,20 +85,23 @@
   <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A" 
+    alt="GitHub Stats" 
     height="200" 
   />
 
   <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&hide_border=false&background=000000&stroke=39FF14&ring=00FF41&fire=39FF14&currStreakLabel=39FF14" 
+    src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=dark&hide_border=false&background=000000&stroke=39FF14&ring=00FF41&fire=39FF14&currStreakLabel=39FF14" 
+    alt="GitHub Streak" 
     height="200" 
   />
 </p>
 
 <p align="center">
-  <!-- GitHub Contribution Graph -->
+  <!-- Contribution Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&theme=react-dark&bg_color=000000&color=39FF14&line=00FF41&point=9AFF9A&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&bg_color=000000&color=39FF14&line=00FF41&point=9AFF9A&area=true&hide_border=true" 
+    alt="Contribution Graph" 
     height="250" 
   />
 </p>
