@@ -6,22 +6,55 @@
 ---
 
 ## 👨‍🚀 About Me  
-- 🎓 M.Tech Student in **Cybersecurity**  
-- 🛡️ Focus: **Zero Trust | IAM | Cloud Security**  
-- 📊 Interests: **Threat Intelligence, Web Security, Identity Management**  
+- 🎓 M.Tech Student in **Cybersecurity** (Specializing in Zero Trust & Cloud Security)  
+- 🛡️ Focus: **Zero Trust | IAM | Cloud Security | Microservices Security**  
+- 🔬 Researching: **Lightweight Policy Enforcement with OPA & Linkerd**  
+- 🕵️ Interests: **Threat Intelligence, Identity Management, Network Security**  
 - 💡 Motto: *"Code is my shield, Security is my mission"*  
 
 ---
 
-## ⚡ Tech Stack & Skills  
-<p align="center">
+## ⚡ Skills & Tools  
+
+### 🖥️ Programming & Scripting  
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Security Platforms  
+<p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPA-000000?style=for-the-badge&logo=openpolicyagent&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linkerd-00B5E2?style=for-the-badge&logo=linkerd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Okta-1F5FFF?style=for-the-badge&logo=okta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+</p>
+
+### 🔐 Identity & Access Management  
+<p>
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=oauth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenID%20Connect-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAML-0052CC?style=for-the-badge&logo=atlassian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MFA-FF6F00?style=for-the-badge&logo=auth0&logoColor=white"/>
+</p>
+
+### 🛠️ Security Tools  
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-00BFFF?style=for-the-badge&logo=metasploit&logoColor=white"/>
+</p>
+
+### 🖧 Networking & Infra  
+<p>
+  <img src="https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer-007ACC?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
 ---
@@ -34,7 +67,7 @@
 
 ---
 
-## 🌍 Visitors  
+## 🌍 Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karthikeyan1202&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
