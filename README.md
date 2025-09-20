@@ -21,14 +21,14 @@
 ## ⚡ Skills  
 
 ### 🖥️ Programming Languages  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-00FF7F?style=for-the-badge&logo=gnu-bash&logoColor=black"/>
 </p>
 
 ### 🌐 Networking  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/TCP%2FIP-FF1493?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/DNS-00BFFF?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/VPN-32CD32?style=for-the-badge&logo=protonvpn&logoColor=black"/>
@@ -38,7 +38,7 @@
 </p>
 
 ### 🔑 Security Protocols  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SSL%2FTLS-9400D3?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
   <img src="https://img.shields.io/badge/mTLS-FF00FF?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
   <img src="https://img.shields.io/badge/IPSec-00CED1?style=for-the-badge&logo=fortinet&logoColor=black"/>
@@ -48,7 +48,7 @@
 </p>
 
 ### 🛠️ Tools & Platforms  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-00CED1?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white"/>
@@ -62,7 +62,7 @@
 </p>
 
 ### 🏴‍☠️ Security Domains  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Network%20Security-9932CC?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Security-1E90FF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/IAM-FF4500?style=for-the-badge&logo=auth0&logoColor=white"/>
@@ -73,7 +73,7 @@
 </p>
 
 ### 💻 Operating Systems  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-32CD32?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
