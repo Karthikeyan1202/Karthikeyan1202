@@ -84,7 +84,7 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=25&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&bg_color=000000,001100,002200&cache_seconds=86400"
+<img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=25&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&bg_color=000000,001100,002200"
   width="48%" alt="GitHub Stats"/>
 
 <!-- GitHub Streak -->
@@ -92,8 +92,6 @@
   width="48%" alt="GitHub Streak"/>
 
 </div>
-
-
 
 
 ---
