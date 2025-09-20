@@ -1,9 +1,8 @@
 <!-- Centered Glowing Title -->
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cybersecurity%20Explorer&fontSize=70&fontColor=ffffff" alt="Animated Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=M.Tech%20Cybersecurity%20Student&fontSize=60&fontColor=ffffff" alt="Animated Banner">
 </h1>
-
 
 ---
 
