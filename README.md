@@ -1,5 +1,8 @@
-<!-- 🌐 Cybersecurity Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=M.Tech%20Cybersecurity%20Student%20%40%20Amrita%20Vishwa%20Vidyapeetham&fontSize=45&fontColor=ffffff&animation=blinking&fontAlignY=35" alt="Cyberpunk Animated Banner">
+<p align="center">
+  <!-- Typing animation with college name -->
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=23&duration=4000&pause=800&color=39FF14&center=true&vCenter=true&width=850&lines=M.Tech+Cybersecurity+Student+%40+Amrita+Vishwa+Vidyapeetham;Initializing+Defense+Protocols...;Deploying+Zero+Trust+Policies...;Monitoring+SQLi+%2C+XSS+%2C+Command+Injection...;⚠️+Access+Denied+%7C+Unauthorized+Requests+Blocked...;Cybersecurity+is+not+an+option+%7C+it's+a+mission+%F0%9F%9A%80" 
+       alt="Cyberpunk Typing Animation" />
+</p>
 
 ---
 
