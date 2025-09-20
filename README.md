@@ -81,17 +81,13 @@
 
 ## 📊 GitHub Stats & Activity  
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=25&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&bg_color=000000,001100,002200"
-  width="48%" alt="GitHub Stats"/>
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&hide_border=true&background=000000,001100,002200&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=9AFF9A&sideLabels=39FF14&dates=9AFF9A"
-  width="48%" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://github.com/Karthikeyan1202/Karthikeyan1202/blob/main/profile-summary-card-output/2077/0-profile-details.svg" alt="GitHub Details"/>
+  <img src="https://github.com/Karthikeyan1202/Karthikeyan1202/blob/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language"/>
+  <img src="https://github.com/Karthikeyan1202/Karthikeyan1202/blob/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language"/>
+  <img src="https://github.com/Karthikeyan1202/Karthikeyan1202/blob/main/profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats"/>
+  <img src="https://github.com/Karthikeyan1202/Karthikeyan1202/blob/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Commit Times"/>
+</p>
 
 
 ---
