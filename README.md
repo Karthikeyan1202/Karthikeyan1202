@@ -79,26 +79,24 @@
 
 ---
 
-📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-<!-- Align GitHub Stats and Top Languages side-by-side -->
-<a href="https://www.google.com/search?q=https://github.com/Karthikeyan1202">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKarthikeyan1202%26show_icons%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue%26hide_border%3Dtrue%26line_height%3D25%26title_color%3D39FF14%26icon_color%3D39FF14%26text_color%3D9AFF9A%26bg_color%3D00000000" alt="GitHub Stats" width="49%"/>
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Karthikeyan1202">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKarthikeyan1202%26layout%3Dcompact%26hide_border%3Dtrue%26langs_count%3D8%26title_color%3D39FF14%26text_color%3D9AFF9A%26bg_color%3D00000000" alt="Top Languages" width="49%"/>
-</a>
 
-<br/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=25&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&bg_color=000000,001100,002200&cache_seconds=86400"
+  width="49%"
+  alt="GitHub Stats"
+/>
 
-<!-- GitHub Streak below the other two -->
-
-<a href="https://www.google.com/search?q=https://github.com/Karthikeyan1202">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3DKarthikeyan1202%26theme%3Ddark%26background%3D00000000%26ring%3D39FF14%26fire%3D39FF14%26currStreakLabel%3D39FF14%26sideNums%3D9AFF9A%26sideLabels%3D39FF14%26dates%3D9AFF9A%26hide_border%3Dtrue" alt="GitHub Streak" height="200"/>
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan1202&layout=compact&hide_border=true&langs_count=8&title_color=39FF14&text_color=9AFF9A&bg_color=000000,001100,002200"
+  width="49%"
+  alt="Top Languages"
+/>
 
 </div>
+
 
 ---
 
