@@ -82,20 +82,20 @@
 📊 GitHub Stats & Activity
 
 <div align="center">
-
-<!-- Combined GitHub Stats and Streak Stats -->
-
+<!-- Align GitHub Stats and Top Languages side-by-side -->
 <a href="https://www.google.com/search?q=https://github.com/Karthikeyan1202">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKarthikeyan1202%26show_icons%3Dtrue%26theme%3Ddark%26bg_color%3D00000000%26title_color%3D39FF14%26icon_color%3D39FF14%26text_color%3D9AFF9A%26hide_border%3Dtrue" alt="GitHub Stats" width="49%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKarthikeyan1202%26show_icons%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue%26hide_border%3Dtrue%26line_height%3D25%26title_color%3D39FF14%26icon_color%3D39FF14%26text_color%3D9AFF9A%26bg_color%3D00000000" alt="GitHub Stats" width="49%"/>
 </a>
 <a href="https://www.google.com/search?q=https://github.com/Karthikeyan1202">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3DKarthikeyan1202%26theme%3Ddark%26background%3D00000000%26ring%3D39FF14%26fire%3D39FF14%26currStreakLabel%3D39FF14%26sideNums%3D9AFF9A%26sideLabels%3D39FF14%26dates%3D9AFF9A%26hide_border%3Dtrue" alt="GitHub Streak" width="49%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKarthikeyan1202%26layout%3Dcompact%26hide_border%3Dtrue%26langs_count%3D8%26title_color%3D39FF14%26text_color%3D9AFF9A%26bg_color%3D00000000" alt="Top Languages" width="49%"/>
 </a>
 
-<!-- Top Languages -->
+<br/>
+
+<!-- GitHub Streak below the other two -->
 
 <a href="https://www.google.com/search?q=https://github.com/Karthikeyan1202">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKarthikeyan1202%26layout%3Dcompact%26hide_border%3Dtrue%26langs_count%3D8%26theme%3Ddark%26bg_color%3D00000000%26title_color%3D39FF14%26icon_color%3D39FF14%26text_color%3D9AFF9A" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3DKarthikeyan1202%26theme%3Ddark%26background%3D00000000%26ring%3D39FF14%26fire%3D39FF14%26currStreakLabel%3D39FF14%26sideNums%3D9AFF9A%26sideLabels%3D39FF14%26dates%3D9AFF9A%26hide_border%3Dtrue" alt="GitHub Streak" height="200"/>
 </a>
 
 </div>
