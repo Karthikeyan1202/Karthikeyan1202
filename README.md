@@ -86,12 +86,16 @@
 ---
 
 ## 🌍 Profile Views  
+
+<h3 align="center">👁 Tracking Visitors in Stealth Mode 👁</h3>  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karthikeyan1202&label=Profile%20Views&color=FF00FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Karthikeyan1202&label=Visitors&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Active%20%26%20Monitoring-39FF14?style=for-the-badge&logo=matrix&logoColor=black"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Initializing+Defense+Protocols...;Deploying+Zero+Trust+Policies...;Monitoring+SQLi+%2C+XSS+%2C+Command+Injection...;Access+Denied+%7C+Unauthorized+Requests+Blocked...;Cybersecurity+is+not+an+option%2C+it's+a+mission+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=23&duration=4000&pause=800&color=FF00FF&center=true&vCenter=true&width=850&lines=Initializing+Defense+Protocols...;Deploying+Zero+Trust+Policies...;Monitoring+SQLi+%2C+XSS+%2C+Command+Injection...;⚠️+Access+Denied+%7C+Unauthorized+Requests+Blocked...;Cybersecurity+is+not+an+option+%7C+it's+a+mission+%F0%9F%9A%80" alt="Cyberpunk Typing Animation">
 </p>
