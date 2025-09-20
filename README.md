@@ -83,20 +83,16 @@
 
 <div align="center">
 
-<!-- GitHub Stats (left) + Streak (right) -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=25&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&bg_color=000000,001100,002200" width="48%" alt="GitHub Stats"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=25&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&bg_color=000000,001100,002200&cache_seconds=86400"
+  width="48%" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=9AFF9A&sideLabels=39FF14&dates=9AFF9A" width="48%" alt="GitHub Streak"/>
-  
-</div>
-
-<!-- Full-width Languages -->
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan1202&layout=compact&hide_border=true&langs_count=10&title_color=39FF14&text_color=9AFF9A&bg_color=000000,001100,002200" width="97%" alt="Top Languages"/>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&hide_border=true&background=000000,001100,002200&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=9AFF9A&sideLabels=39FF14&dates=9AFF9A"
+  width="48%" alt="GitHub Streak"/>
 
 </div>
+
 
 
 
