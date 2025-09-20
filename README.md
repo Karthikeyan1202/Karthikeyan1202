@@ -105,7 +105,7 @@
 </table>
 
 <!-- Contribution Graph (full-width, aligned with boxes above) -->
-<table align="center" width="100%">
+<table align="center" width="200%">
   <tr>
     <td>
       <img 
