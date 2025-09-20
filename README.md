@@ -1,7 +1,8 @@
 <!-- 🌐 Cybersecurity Profile Header -->
 <h1 align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/9Yb1O/eyJyIjoiZnMiLCJoIjozNiwidyI6MTAwMCwiZnMiOjM2LCJmZ2MiOiIjRkYwMEZGIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/TU5UZWNoIEN5YmVyc2VjdXJpdHkgU3R1ZGVudA/doctor-glitch.png" alt="Glitch Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=32&pause=800&color=FF00FF&center=true&vCenter=true&width=800&lines=M.Tech+Cybersecurity+Student;Zero+Trust+%7C+Cloud+Security+%7C+IAM;Glitching+the+System...;Access+Granted+%7C+Welcome+Hacker" alt="Glitch Hacker Banner"/>
 </h1>
+
 
 
 ---
