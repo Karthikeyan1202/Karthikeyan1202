@@ -80,12 +80,19 @@
 ---
 
 ## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=radical&bg_color=0F0C29,302B63,24243e&title_color=00F7FF&icon_color=FF00FF&text_color=ffffff" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=radical&hide_border=false&background=0F0C29&stroke=00F7FF&ring=FF00FF&fire=FF4500&currStreakLabel=39FF14" height="180em"/>
-</p>
 
----
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=radical&bg_color=0F0C29,302B63,24243e&title_color=00F7FF&icon_color=FF00FF&text_color=ffffff" height="200"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=radical&hide_border=false&background=0F0C29&stroke=00F7FF&ring=FF00FF&fire=FF4500&currStreakLabel=39FF14" height="200"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## 🌍 Profile Views  
 
