@@ -82,8 +82,14 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&hide_border=true" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=9AFF9A&sideLabels=39FF14&dates=9AFF9A&hide_border=true" height="200"/>
+  <!-- main stats (cache-bust added) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&hide_border=true&cache_seconds=86400" height="200" alt="GitHub Stats"/>
+
+  <!-- streaks (Heroku-based; if this fails, use the activity graph below as fallback) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=9AFF9A&sideLabels=39FF14&dates=9AFF9A&hide_border=true" height="200" alt="GitHub Streaks"/>
+
+  <!-- fallback activity graph (uncomment if streaks is down) -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&bg_color=000000&color=39FF14&line=39FF14&point=9AFF9A&area=true&hide_border=true" width="100%" alt="Activity Graph"/> -->
 </p>
 
 ---
