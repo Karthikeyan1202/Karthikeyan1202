@@ -15,24 +15,24 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Skills
 
-### 💻 Languages & Frameworks
+### 💻 Languages & Operating Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,bash,powershell,go,rust" />
+  <img src="https://skillicons.dev/icons?i=python,sql,bash,windows,linux" />
 </p>
 
 ### 🌐 Networking & Protocols
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,windows,cloudflare,nginx,git,jenkins,grafana" />
+  <img src="https://skillicons.dev/icons?i=tcpip,dns,vpn,firewall,ssl,ipsec,oauth,oidc" />
 </p>
 
-### 🛠️ Tools & Domains
+### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=burp,wireshark,metasploit,nessus,splunk,okta,jira,prometheus,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=burp,wireshark,metasploit,splunk,nessus,aws,ibmcloud,okta,git,docker,kubernetes,ansible,terraform" />
 </p>
 
-### 🛡️ Cybersecurity Expertise
+### 🛡️ Cybersecurity Domains
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=security,pentest,forensics,threat,vulnerability,network,iam,soc,cloud,threatintel" />
+  <img src="https://skillicons.dev/icons?i=security,threat,vulnerability,network,cloud,iam,forensics,pentest,soc,threatintel" />
 </p>
 
 ---
