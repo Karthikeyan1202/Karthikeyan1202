@@ -10,8 +10,20 @@
 </table>
 
 ---
-## 👨‍🚀 About Me 💻 **M.Tech Cybersecurity Student** → Exploring *Zero Trust & Cloud Security* with a passion for **policy-driven defenses** in modern **microservices**. ✨ **Who I Am** - 🎓 Academic Path → *M.Tech in Cybersecurity* - 🛡️ Core Areas → *Zero Trust · IAM · Cloud Security · Microservices Security* - 🔬 Research Themes → *Lightweight Policy Enforcement with OPA & Linkerd* · *Zero Trust for GIS Data Security* - 🕵️ Security Interests → *Threat Intelligence · SOC Operations · Incident Response · Network & Cloud Security · Malware Analysis. Vulnerability Assessment · SIEM Monitoring* - 💡 Philosophy → *"Lifelong Learner – Growing with Every Challenge"* can you make this typing style
- 
+
+## 👨‍🚀 About Me  
+
+<p align="justify" style="font-family:'Times New Roman', serif; font-size:16px;">
+  💻 <b>M.Tech Cybersecurity Student</b> → Exploring <i>Zero Trust & Cloud Security</i> with a passion for <b>policy-driven defenses</b> in modern <i>microservices</i>.
+</p>
+
+### ✨ Who I Am  
+
+- 🎓 <b>Academic Path</b> → <i>M.Tech in Cybersecurity</i>  
+- 🛡️ <b>Core Areas</b> → <i>Zero Trust · IAM · Cloud Security · Microservices Security</i>  
+- 🔬 <b>Research Themes</b> → <i>Lightweight Policy Enforcement with OPA & Linkerd</i> · <i>Zero Trust for GIS Data Security</i>  
+- 🕵️ <b>Security Interests</b> → <i>Threat Intelligence · SOC Operations · Incident Response · Network & Cloud Security · Malware Analysis · Vulnerability Assessment · SIEM Monitoring</i>  
+- 💡 <b>Philosophy</b> → <i>"Lifelong Learner – Growing with Every Challenge"</i>  
 
 ---
 
