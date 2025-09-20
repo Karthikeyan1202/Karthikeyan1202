@@ -1,4 +1,4 @@
-<table align="center" width="100%" border="1" style="border: 2px dashed #39FF14; border-collapse: collapse;">
+<table align="center" width="150%" border="1" style="border: 2px dashed #39FF14; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: 2px dashed #39FF14; padding: 10px;">
       <img 
@@ -8,6 +8,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 👨‍🚀 About Me  
