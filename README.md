@@ -12,7 +12,7 @@
 - 🎓 Academic Path → *M.Tech in Cybersecurity*  
 - 🛡️ Core Areas → *Zero Trust · IAM · Cloud Security · Microservices Security*  
 - 🔬 Research Themes → *Lightweight Policy Enforcement with OPA & Linkerd* · *Zero Trust for GIS Data Security*  
-- 🕵️ Security Interests → *Threat Intelligence · SOC Operations · Incident Response · Network & Cloud Security · Vulnerability Assessment · SIEM Monitoring*  
+- 🕵️ Security Interests → *Threat Intelligence · SOC Operations · Incident Response · Network & Cloud Security · Malware Analysis. Vulnerability Assessment · SIEM Monitoring*  
 - 💡 Philosophy → *"Lifelong Learner – Growing with Every Challenge"*  
 
 ---
