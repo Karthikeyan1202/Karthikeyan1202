@@ -4,6 +4,7 @@
 </h1>
 
 ---
+
 ## 👨‍🚀 About Me  
 
 💻 **M.Tech Cybersecurity Student** → Exploring *Zero Trust & Cloud Security* with a passion for **policy-driven defenses** in modern **microservices**.  
@@ -15,8 +16,8 @@
 - 🕵️ Security Interests → *Threat Intelligence · SOC Operations · Incident Response · Network & Cloud Security · Vulnerability Assessment · SIEM Monitoring*  
 - 💡 Philosophy → *"Lifelong Learner – Growing with Every Challenge"*  
 
-
 ---
+
 ## ⚡ Skills  
 
 ### 🖥️ Programming Languages  
@@ -77,22 +78,13 @@
   <img src="https://img.shields.io/badge/Linux-32CD32?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A" height="200"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&hide_border=false&background=000000&stroke=39FF14&ring=00FF41&fire=39FF14&currStreakLabel=39FF14" height="200"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&hide_border=false&background=000000&stroke=39FF14&ring=00FF41&fire=39FF14&currStreakLabel=39FF14" height="200"/>
 </p>
 
 ---
@@ -103,7 +95,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karthikeyan1202&label=Visitors&color=FF00FF&style=for-the-badge" alt="Profile Views"/>
-
 </p>
 
 ---
