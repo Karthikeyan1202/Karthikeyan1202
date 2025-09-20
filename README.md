@@ -90,11 +90,12 @@
   />
 
   <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=dark&hide_border=false&background=000000&stroke=39FF14&ring=00FF41&fire=39FF14&currStreakLabel=39FF14" 
-    alt="GitHub Streak" 
-    height="200" 
-  />
+<img 
+  src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=false&v=1" 
+  alt="GitHub Streak" 
+  height="200" 
+/>
+
 </p>
 
 <p align="center">
