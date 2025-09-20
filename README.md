@@ -1,10 +1,9 @@
 <!-- Centered Glowing Title -->
 
 <h1 align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Code+.+Secure+.+Defend;Cybersecurity+in+Action;Zero+Trust+Explorer;M.Tech+Cybersecurity+Student" alt="Typing Animation">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zero%20Trust%20Explorer&fontSize=70&fontColor=ffffff" alt="Animated Banner">
 </h1>
+
 
 
 
