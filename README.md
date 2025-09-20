@@ -1,16 +1,13 @@
-## 🎓 Education  
-
-<table align="center" width="100%">
+table align="center" width="100%">
   <tr>
-    <td align="center" width="100%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 20px;">
-      <h3 style="color:#39FF14;">M.Tech in Cybersecurity</h3>
-      <p style="color:#9AFF9A; font-size:18px;">
-        @ Amrita Vishwa Vidyapeetham
-      </p>
+    <td align="center">
+      <img 
+        src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=25&duration=4000&pause=800&color=39FF14&center=true&vCenter=true&width=850&lines=M.Tech+in+Cybersecurity+%40+Amrita+Vishwa+Vidyapeetham" 
+        alt="M.Tech Cybersecurity @ Amrita"
+      />
     </td>
   </tr>
 </table>
-
 
 ---
 
