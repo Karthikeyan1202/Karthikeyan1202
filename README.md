@@ -10,18 +10,7 @@
 </table>
 
 ---
-
-<!-- About Me — Typing Animation (neon green, cycling lines) -->
-<table align="center" width="100%" style="border: 2px dashed #39FF14; border-collapse: collapse; padding:6px;">
-  <tr>
-    <td align="center" style="padding:12px;">
-      <img
-        src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&duration=3500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=💻+M.Tech+Cybersecurity+Student+%E2%86%92+Zero+Trust+%26+Cloud+Security;🎓+Academic+Path+%E2%86%92+M.Tech+in+Cybersecurity;🛡️+Core+Areas+%E2%86%92+Zero+Trust+%C2%B7+IAM+%C2%B7+Cloud+Security+%C2%B7+Microservices+Security;🔬+Research+%E2%86%92+Lightweight+Policy+Enforcement+with+OPA+%26+Linkerd;🕵️+Interests+%E2%86%92+Threat+Intel+%C2%B7+SOC+Ops+%C2%B7+Incident+Response;💡+Philosophy+%E2%86%92+%22Lifelong+Learner%22"
-        alt="About Me - Typing Animation"
-      />
-    </td>
-  </tr>
-</table>
+## 👨‍🚀 About Me 💻 **M.Tech Cybersecurity Student** → Exploring *Zero Trust & Cloud Security* with a passion for **policy-driven defenses** in modern **microservices**. ✨ **Who I Am** - 🎓 Academic Path → *M.Tech in Cybersecurity* - 🛡️ Core Areas → *Zero Trust · IAM · Cloud Security · Microservices Security* - 🔬 Research Themes → *Lightweight Policy Enforcement with OPA & Linkerd* · *Zero Trust for GIS Data Security* - 🕵️ Security Interests → *Threat Intelligence · SOC Operations · Incident Response · Network & Cloud Security · Malware Analysis. Vulnerability Assessment · SIEM Monitoring* - 💡 Philosophy → *"Lifelong Learner – Growing with Every Challenge"* can you make this typing style
  
 
 ---
