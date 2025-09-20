@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0C29,302B63,00F7FF&height=220&section=header&text=M.Tech%20Cybersecurity%20Student&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=35" alt="Cyberpunk Banner">
 </h1>
+
 ---
 
 ## 👨‍🚀 About Me  
