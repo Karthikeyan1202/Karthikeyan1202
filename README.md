@@ -78,32 +78,30 @@
 
 ---
 
+
 ## 📊 GitHub Stats & Activity  
 
-<table>
-  <tr>
-    <!-- GitHub Stats -->
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&v=1" 
-        alt="GitHub Stats" 
-        height="200" 
-      />
-    </td>
-
-    <!-- GitHub Streak -->
-    <td>
-      <img 
-        src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=false&v=1" 
-        alt="GitHub Streak" 
-        height="200" 
-      />
-    </td>
-  </tr>
-</table>
-
-<!-- Contribution Graph (full width below) -->
 <p align="center">
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&v=1" 
+    alt="GitHub Stats" 
+    height="200" 
+  />
+
+  <!-- GitHub Streak (primary: demolab, fallback commented) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=false&v=1" 
+    alt="GitHub Streak" 
+    height="200" 
+  />
+  <!-- If demolab is down, replace above with: 
+  https://github-readme-streak-stats-eight.vercel.app?user=Karthikeyan1202&theme=dark&v=1
+  -->
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&bg_color=000000&color=39FF14&line=00FF41&point=9AFF9A&area=true&hide_border=true&v=1" 
     alt="Contribution Graph" 
