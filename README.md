@@ -7,15 +7,14 @@
 
 ## 👨‍🚀 About Me  
 
-💻 A passionate **M.Tech Cybersecurity Student** specializing in **Zero Trust & Cloud Security**, building **policy-driven defenses** for modern **microservices**.  
+💻 **M.Tech Cybersecurity Student** → Exploring *Zero Trust & Cloud Security* with a passion for **policy-driven defenses** in modern **microservices**.  
 
-- 🎓 **M.Tech in Cybersecurity**  
-- 🛡️ Focus: **Zero Trust | IAM | Cloud Security | Microservices Security**  
-- 🔬 Research: **Lightweight Policy Enforcement with OPA & Linkerd** | **Zero Trust for GIS Data Security**  
-- 🕵️ Interests: **Threat Intelligence, IAM, SOC Operations, Incident Response, Network Security, Cloud Security, Vulnerability Assessment, SIEM Monitoring**  
-- 💡 Motto: *"Lifelong Learner – Growing with Every Challenge"*  
-
----
+✨ **Who I Am**  
+- 🎓 Academic Path → *M.Tech in Cybersecurity*  
+- 🛡️ Core Areas → *Zero Trust · IAM · Cloud Security · Microservices Security*  
+- 🔬 Research Themes → *Lightweight Policy Enforcement with OPA & Linkerd* · *Zero Trust for GIS Data Security*  
+- 🕵️ Security Interests → *Threat Intelligence · SOC Operations · Incident Response · Network & Cloud Security · Vulnerability Assessment · SIEM Monitoring*  
+- 💡 Philosophy → *"Lifelong Learner – Growing with Every Challenge"*  
 
 ## ⚡ Skills  
 
