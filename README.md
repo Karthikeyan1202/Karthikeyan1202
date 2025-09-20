@@ -1,4 +1,4 @@
-table align="center" width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <img 
@@ -8,7 +8,6 @@ table align="center" width="100%">
     </td>
   </tr>
 </table>
-
 ---
 
 ## 👨‍🚀 About Me  
