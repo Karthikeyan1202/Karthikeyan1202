@@ -1,8 +1,8 @@
 <table align="center" width="100%" border="1" style="border: 2px dashed #39FF14; border-collapse: collapse;">
   <tr>
-    <td align="center" style="border: 2px dashed #39FF14; padding: 10px;">
+    <td align="center" style="border: 2px dashed #39FF14; padding: 15px;">
       <img 
-        src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=25&duration=4000&pause=800&color=39FF14&center=true&vCenter=true&width=850&lines=M.Tech+in+CyberSecurity+%40+Amrita+Vishwa+Vidyapeetham" 
+        src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=40&duration=4000&pause=800&color=39FF14&center=true&vCenter=true&width=1000&lines=M.Tech+in+CyberSecurity+%40+Amrita+Vishwa+Vidyapeetham" 
         alt="M.Tech Cybersecurity @ Amrita"
       />
     </td>
