@@ -102,7 +102,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karthikeyan1202&label=Visitors&color=FF00FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Status-Active%20%26%20Monitoring-39FF14?style=for-the-badge&logo=matrix&logoColor=black"/>
+
 </p>
 
 ---
