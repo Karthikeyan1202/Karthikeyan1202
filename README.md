@@ -78,6 +78,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
