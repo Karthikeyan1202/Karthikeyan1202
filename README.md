@@ -1,7 +1,5 @@
 <!-- 🌐 Cybersecurity Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=M.Tech%20Cybersecurity%20Student&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=35" alt="Cyberpunk Animated Banner">
-
-<h3 align="center">🎓 Amrita Vishwa Vidyapeetham | Cybersecurity Department</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=M.Tech%20Cybersecurity%20Student%20%40%20Amrita%20Vishwa%20Vidyapeetham&fontSize=45&fontColor=ffffff&animation=blinking&fontAlignY=35" alt="Cyberpunk Animated Banner">
 
 ---
 
