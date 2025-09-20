@@ -16,6 +16,8 @@
 - 🕵️ Security Interests → *Threat Intelligence · SOC Operations · Incident Response · Network & Cloud Security · Vulnerability Assessment · SIEM Monitoring*  
 - 💡 Philosophy → *"Lifelong Learner – Growing with Every Challenge"*  
 
+
+---
 ## ⚡ Skills  
 
 ### 🖥️ Programming Languages  
