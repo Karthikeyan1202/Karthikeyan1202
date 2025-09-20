@@ -78,12 +78,11 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&hide_border=false&background=000000&stroke=39FF14&ring=00FF41&fire=39FF14&currStreakLabel=39FF14" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=9AFF9A&sideLabels=39FF14&dates=9AFF9A&hide_border=true" height="200"/>
 </p>
 
 ---
