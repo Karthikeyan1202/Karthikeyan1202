@@ -5,7 +5,7 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Genie.png" alt="Man Genie" width="25" height="25" /> About Me
-- 🎓 M.Tech Student in **Cybersecurity** (Specializing in Zero Trust & Cloud Security)
+- 🎓 **Master's in Cyber security** (Specializing in Zero Trust & Cloud Security)
 - 🛡️ Focus: **Zero Trust | IAM | Cloud Security | Microservices Security**
 - 🔬 Researching: **Lightweight Policy Enforcement with OPA & Linkerd**, and **Zero Trust Architectures for securing Geospatial Data (GIS)**
 - 🕵️ Interests: **Threat Intelligence, Identity & Access Management (IAM), Network Security, Cloud Security, SOC Operations, Incident Response, Vulnerability Assessment, and SIEM Monitoring**
