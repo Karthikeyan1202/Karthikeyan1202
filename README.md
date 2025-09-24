@@ -8,7 +8,7 @@
   💻 <b>M.Tech Cybersecurity Student</b> → Exploring <i>Zero Trust & Cloud Security</i> with a passion for <b>policy-driven defenses</b> in modern <i>microservices</i>.
 </p>
 
-### ✨ Who I Am  
+### ✨ Who I Am..
 
 - 🎓 <b>Academic Path</b> → <i>M.Tech in Cybersecurity</i>  
 - 🛡️ <b>Core Areas</b> → <i>Zero Trust · IAM · Cloud Security · Microservices Security</i>  
