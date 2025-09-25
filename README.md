@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍🚀 About Me..
+## 👨‍🚀 About Me...
 
 <p align="justify" style="font-family:'Times New Roman', serif; font-size:16px;">
   💻 <b>M.Tech Cybersecurity Student</b> → Exploring <i>Zero Trust & Cloud Security..</i> with a passion for <b>policy-driven defenses</b> in modern <i>microservices</i>.
