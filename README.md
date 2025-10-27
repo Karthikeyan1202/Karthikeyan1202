@@ -104,7 +104,7 @@
     <td colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&bg_color=000000&color=39FF14&line=00FF41&point=9AFF9A&area=true&hide_border=false&custom_title=Karthikeyan%20G's%20Contribution%20Graph&v=1" 
         alt="Contribution Graph" 
-        width="150%" 
+        width="50%" 
         height="200" 
       />
     </td>
