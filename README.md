@@ -86,33 +86,30 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <img 
-  t     src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&v=1" 
-        alt="GitHub Stats" 
-        width="100%" 
-        height="200" 
+      <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=dark&bg_color=000000,001100,002200&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&v=1" 
+        alt="GitHub Stats" 
+        width="100%" 
+        height="200" 
       />
     </td>
     <td width="50%">
-      <img 
-        src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=false&v=1" 
-        alt="GitHub Streak" 
-        width="100%" 
-        height="200" 
+      <img src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=false&v=1" 
+        alt="GitHub Streak" 
+        width="100%" 
+        height="200" 
       />
     </td>
   </tr>
   <tr>
-  s <td colspan="2">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&bg_color=000000&color=39FF14&line=00FF41&point=9AFF9A&area=true&hide_border=false&custom_title=Karthikeyan%20G's%20Contribution%20Graph&v=1" 
-        alt="Contribution Graph" 
-        width="100%" 
-        height="250" 
-  nbsp; </td>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&bg_color=000000&color=39FF14&line=00FF41&point=9AFF9A&area=true&hide_border=false&custom_title=Karthikeyan%20G's%20Contribution%20Graph&v=1" 
+        alt="Contribution Graph" 
+        width="100%" 
+        height="250" 
+      />
+    </td>
   </tr>
 </table>
-
 
 ---
 
