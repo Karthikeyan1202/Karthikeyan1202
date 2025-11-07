@@ -15,7 +15,7 @@
 ### ✨ Who I Am
 - 🎓 **Academic Path** → *M.Tech in Cybersecurity, Amrita Vishwa Vidyapeetham*  
 - 🛡️ **Core Focus** → *Zero Trust · IAM · Cloud Security · Service Mesh Security*  
-- 🔬 **Research** → *Lightweight Policy Enforcement using OPA & Linkerd* · *Zero Trust for GIS Data*  
+- 🔬 **Research** → *Lightweight Policy Enforcement using OPA & Linkerd* · *Zero Trust for GIS Data and OT Sec*  
 - 🕵️ **Interests** → *Threat Intelligence · SOC · Incident Response · Malware Reverse Engineering · SIEM · Pen Testing*  
 - 💡 **Philosophy** → *"Lifelong Learner – Evolving with Every Breach"*  
 
@@ -79,7 +79,6 @@
   <img src="https://img.shields.io/badge/Incident_Response-FF0000?style=for-the-badge&logo=datadog&logoColor=white" alt="Incident Response"/>
   <img src="https://img.shields.io/badge/Vuln_Assessment-FFD700?style=for-the-badge&logo=qualys&logoColor=black" alt="Vulnerability Assessment"/>
   <img src="https://img.shields.io/badge/SIEM-39FF14?style=for-the-badge&logo=splunk&logoColor=black" alt="SIEM Monitoring"/>
-  <img src="https://img.shields.io/badge/OT_Security-FF8C00?style=for-the-badge&logo=schneider-electric&logoColor=white" alt="OT Security"/>
   <img src="https://img.shields.io/badge/Threat_Intelligence-9400D3?style=for-the-badge&logo=alienvault&logoColor=white" alt="Threat Intelligence"/>
 </p>
 
