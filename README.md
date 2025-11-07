@@ -67,7 +67,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Linkerd-00C7B7?style=for-the-badge&logo=linkerd&logoColor=white" alt="Linkerd"/>
   <img src="https://img.shields.io/badge/OPA-1E90FF?style=for-the-badge&logo=open-policy-agent&logoColor=white" alt="OPA"/>
-  <img src="https://img.shields.io/badge/S7Comm-FF1493?style=for-the-badge&logo=siemens&logoColor=white" alt="S7Comm"/>
 </p>
 
 ### 🏴‍☠️ **Security Domains**
