@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </p>
 
 ### 🌐 **Networking & Infrastructure**
@@ -37,6 +38,8 @@
   <img src="https://img.shields.io/badge/Firewalls-DC143C?style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Firewalls"/>
   <img src="https://img.shields.io/badge/Routing-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Routing"/>
   <img src="https://img.shields.io/badge/Switching-00CED1?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Switching"/>
+  <img src="https://img.shields.io/badge/IEC_62443-FF4500?style=for-the-badge&logo=iec&logoColor=white" alt="IEC 62443"/>
+  <img src="https://img.shields.io/badge/PLC_Forensics-8A2BE2?style=for-the-badge&logo=siemens&logoColor=white" alt="PLC Forensics"/>
 </p>
 
 ### 🔐 **Security Protocols**
@@ -56,11 +59,15 @@
   <img src="https://img.shields.io/badge/Metasploit-0C5778?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Nessus-74C23E?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Splunk_SPL-FF00FF?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk SPL"/>
   <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/IBM_Cloud-0A6ED1?style=for-the-badge&logo=ibmcloud&logoColor=white" alt="IBM Cloud"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Linkerd-00C7B7?style=for-the-badge&logo=linkerd&logoColor=white" alt="Linkerd"/>
+  <img src="https://img.shields.io/badge/OPA-1E90FF?style=for-the-badge&logo=open-policy-agent&logoColor=white" alt="OPA"/>
+  <img src="https://img.shields.io/badge/S7Comm-FF1493?style=for-the-badge&logo=siemens&logoColor=white" alt="S7Comm"/>
 </p>
 
 ### 🏴‍☠️ **Security Domains**
@@ -72,6 +79,8 @@
   <img src="https://img.shields.io/badge/Incident_Response-FF0000?style=for-the-badge&logo=datadog&logoColor=white" alt="Incident Response"/>
   <img src="https://img.shields.io/badge/Vuln_Assessment-FFD700?style=for-the-badge&logo=qualys&logoColor=black" alt="Vulnerability Assessment"/>
   <img src="https://img.shields.io/badge/SIEM-39FF14?style=for-the-badge&logo=splunk&logoColor=black" alt="SIEM Monitoring"/>
+  <img src="https://img.shields.io/badge/OT_Security-FF8C00?style=for-the-badge&logo=schneider-electric&logoColor=white" alt="OT Security"/>
+  <img src="https://img.shields.io/badge/Threat_Intelligence-9400D3?style=for-the-badge&logo=alienvault&logoColor=white" alt="Threat Intelligence"/>
 </p>
 
 ### 💻 **Operating Systems**
