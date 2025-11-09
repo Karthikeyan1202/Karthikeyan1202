@@ -15,7 +15,7 @@
 ### ✨ Who I Am
 - 🎓 **Academic Path** → *M.Tech in Cybersecurity, Amrita Vishwa Vidyapeetham*  
 - 🛡️ **Core Focus** → *Zero Trust · IAM · Cloud Security · Service Mesh Security*  
-- 🔬 **Research** → *Lightweight Policy Enforcement using OPA & Linkerd* · *Zero Trust for GIS Data and OT Sec*  
+- 🔬 **Research** → *Lightweight Policy Enforcement using OPA & Linkerd* · *Zero Trust for GIS Data and OT Sec.*  
 - 🕵️ **Interests** → *OT Security . Threat Intelligence · SOC · Incident Response · Malware Reverse Engineering · SIEM *  
 - 💡 **Philosophy** → *"Lifelong Learner – Evolving with Every Breach"*  
 
