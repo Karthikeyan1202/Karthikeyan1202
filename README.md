@@ -100,10 +100,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan1202&bg_color=0D1117&color=39FF14&line=00FF41&point=9AFF9A&area=true&hide_border=true&custom_title=Contribution+Heatmap" alt="Contribution Graph" width="100%" />
-    </td>
-  </tr>
+ 
 </table>
 
 ---
