@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍🚀 <span style="color:#39FF14;">About Me</span>
-<p align="justify" style="font-family:'Segoe UI',sans-serif; font-size:18px; color:#C9F9A0; background-color:#171B1E; padding:14px 17px; border-radius:9px; border: 2px dashed #39FF14; box-shadow:0 0 10px #39FF1460;">
+<p align="justify" style="font-family:'Segoe UI',sans-serif; font-size:16px; color:#C9F9A0; background-color:#171B1E; padding:14px 17px; border-radius:9px; border: 2px dashed #39FF14; box-shadow:0 0 10px #39FF1460;">
   <b>💻 M.Tech Cybersecurity Student</b> → Exploring <i>Zero Trust Architecture</i> and <i>Cloud-Native Security</i> with a focus on <b>policy-driven defenses</b> in <i>microservices ecosystems</i>.
 </p>
 
