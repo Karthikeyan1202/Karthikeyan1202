@@ -1,11 +1,10 @@
-<table align="center" width="100%" border="0" style="border:2.5px solid #39FF14; border-radius:18px; box-shadow:0 0 22px #39FF1480, 0 0 80px #001a0070; overflow:hidden; background:linear-gradient(125deg, #191D20 75%, #012508 100%);">
+<table align="center" width="100%" border="0" style="border: 2px dashed #39FF14; border-collapse: collapse; border-radius: 12px; overflow: hidden;">
   <tr>
-    <td align="center" style="padding:22px 15px 12px 15px; background:linear-gradient(135deg, #111418 90%, #0B341E 100%); border-radius:16px;">
-      <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=22&duration=3700&pause=1200&color=39FF14&center=true&width=680&lines=👨‍💻+M.Tech+in+CyberSecurity+%40+Amrita;Zero+Trust+%7C+Cloud+Security+%7C+Modern+Policy+Ops;" alt="Header Animation" />
+    <td align="center" style="padding: 20px; background: linear-gradient(135deg, #000000, #001a00);">
+      <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=M.Tech+in+CyberSecurity+%40+Amrita+Vishwa+Vidyapeetham;Zero+Trust+%7C+Cloud+Security+%7C+Policy+Enforcement" alt="M.Tech Cybersecurity @ Amrita" />
     </td>
   </tr>
 </table>
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=30&section=header"/>
