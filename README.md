@@ -14,7 +14,7 @@
 ---
 
 <div align="center" style="margin-top:-20px;">
-  <h2 style="color:#39FF14;font-weight:800;font-size:2rem;letter-spacing:2px;">Hey Stranger, I'm Karthikeyan!</h2>
+  <h2 style="color:#39FF14;font-weight:800;font-size:2rem;letter-spacing:2px;">I'm Karthikeyan!</h2>
   <p style="font-size:17.5px;color:#C9F9A0;background:#191D1F;border-radius:11px;padding:9px 17px 7px 17px;border:2px solid #39FF1450;box-shadow:0 0 10px #39FF1450;">💻 Cybersecurity Enthusiast focusing on <b>Zero Trust · Cloud Security · Advanced Policy Enforcement</b>.<br>
      <em>Lifelong learner in the art of defense. Guiding microservices into the future—securely!</em>
   </p>
