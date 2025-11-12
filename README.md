@@ -1,6 +1,6 @@
 <table align="center" width="100%" border="0" style="border: 2.5px solid #39FF14; border-radius: 18px; box-shadow: 0 0 20px #39FF1470, 0 0 80px #001a0066; overflow: hidden; background: linear-gradient(120deg, #101312 85%, #021403 100%);">
   <tr>
-    <td align="center" style="padding: 32px 16px; background: linear-gradient(135deg, #06080b 80%, #072412 100%); border-radius: 18px 18px 0 0;">
+    <td align="center" style="padding: 30px 16px; background: linear-gradient(135deg, #06080b 80%, #072412 100%); border-radius: 18px 18px 0 0;">
       <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=700&size=30&duration=4100&pause=840&color=39FF14&center=true&vCenter=true&width=900&lines=M.Tech+in+CyberSecurity+%40+Amrita+Vishwa+Vidyapeetham;Zero+Trust+%7C+Cloud+Security+%7C+Policy+Enforcement" alt="M.Tech Cybersecurity @ Amrita" style="margin-bottom: 12px;" />
     </td>
   </tr>
