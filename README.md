@@ -107,7 +107,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center" style="border-top:2px solid #39FF14;padding:8px 3px;background:#171B1E;">
-      <img src="https://streak-stats.demolab.com?user=Karthikeyan1202&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=9AFF9A" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyan1202&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=9AFF9A" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
