@@ -107,13 +107,14 @@ powered_by : Curiosity, Caffeine & OPA
 
 ## `> github --stats`
 
+<!-- Stats auto-generated every 6 hours via GitHub Actions — no external service needed -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan1202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=9AFF9A&border_radius=4" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyan1202&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=9AFF9A&border_radius=4" height="165" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=9AFF9A&border_radius=4" height="130" alt="Top Languages"/>
+  <a href="https://github.com/Karthikeyan1202">
+    <img src="https://raw.githubusercontent.com/Karthikeyan1202/Karthikeyan1202/main/generated/overview.svg" width="48%" alt="GitHub Overview Stats"/>
+  </a>
+  <a href="https://github.com/Karthikeyan1202">
+    <img src="https://raw.githubusercontent.com/Karthikeyan1202/Karthikeyan1202/main/generated/languages.svg" width="48%" alt="Top Languages"/>
+  </a>
 </div>
 
 ---
